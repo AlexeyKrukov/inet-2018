@@ -35,7 +35,7 @@
 |Комиссаров Ян Вадимович | [Страница пользователя](https://github.com/d1slike) | [Страница-отчёт](https://d1slike.github.io) | [Бригада "УХ"] | [Билет 19](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-19) | X |   
 |Коркмасов Джалалутдин Дагирович | [Страница пользователя](https://github.com/JimmyEagleEye) | [Страница-отчёт](https://jimmyeagleeye.github.io/stankin.io.korkmasov/index.html) | [Отряд самоубийц] | [Билет 26](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-26) | X | 
 |Корный Артур Александрович | [Страница пользователя](https://github.com/Creativio) | X | [Команда Панда] | X | X | 
-|Крюков Алексей Сергеевич | [Страница пользователя](https://github.com/AlexeyKrukov) | X | [Отряд самоубийц] | [Билет 26](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-26) | X | 
+|Крюков Алексей Сергеевич | [Страница пользователя](https://github.com/AlexeyKrukov) | [Страница-отчёт](https://alexeykrukov.github.io/Stankin.io.Krukov2/index.html) | [Отряд самоубийц] | [Билет 26](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-26) | X | 
 |Лаптев Александр Сергеевич | X | X | [Команда 1] | X | X |  
 |Лихачёв Сергей Валерьевич | [Страница пользователя](https://github.com/lihach13) | X | [Бригада "УХ"] | X | X |  
 |Матвеев Антон Сергеевич | [Страница пользователя](https://github.com/keklgar) | [Страница-отчёт](https://keklgar.github.io/Otchet/projects.html) | [НесуперБобры](https://github.com/Chyogurt/chyogurt.github.io/blob/master/README.md) | [Билет 10](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-10) | [Рекламная страница проекта](https://keklgar.github.io/Project/index.html) |  
